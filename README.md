@@ -5,4 +5,5 @@ The goal of this project is simply to play around with Spring Boot and create a 
 
 ## How to launch
 To launch this app, simply run the following command
+
 `mvn spring-boot:run`
